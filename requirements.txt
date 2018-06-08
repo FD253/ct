@@ -1,0 +1,6 @@
+Django==2.0.6
+django-tastypie==0.14.1
+python-twitter==3.4.1
+celery==4.1.1
+psycopg2-binary==2.7.4
+Pillow==5.1.0
